@@ -29,7 +29,7 @@ def main():
     """
     print("Welcome to the Factorial Sum Calculator!")
     print("This program calculates the sum of all factorials from 1 to your chosen number.")
-    
+
     while True:
         try:
             user_input = input("Enter a positive integer (or type 'exit' to quit): ")
