@@ -1,8 +1,7 @@
 # Script: Factorial Sum Calculator
 
 def factorial(n):
-    """
-    Function to calculate the factorial of a number.
+    "Function to calculate the factorial of a number."
     """
     if n == 0:
         return 1
@@ -12,7 +11,7 @@ def factorial(n):
 
 def calculate_factorial_sum(limit):
     """
-    Function to calculate the sum of factorials from 1 to the limit.
+   " Function to calculate the sum of factorials from 1 to the limit."
     """
     if limit < 1:
         raise ValueError("Limit must be a positive integer greater than or equal to 1")
