@@ -1,7 +1,7 @@
 # Script: Factorial Sum Calculator
 
 def factorial(n):
-    
+    'added docs'
     """
     if n == 0:
         return 1
