@@ -3,11 +3,8 @@ def add(x, y):
     return x + y
 
 def factorial(n):
-<<<<<<< Updated upstream
     'added docs'
-    """
-=======
->>>>>>> Stashed changes
+
     if n == 0:
         return 1
     else:
@@ -16,7 +13,7 @@ def factorial(n):
 
 def calculate_factorial_sum(limit):
     """
-   " Function to calculate the sum of factorials from 1 to the limit."
+   Function to calculate the sum of factorials from 1 to the limit.
     """
     if limit < 1:
         raise ValueError("Limit must be a positive integer greater than or equal to 1")
