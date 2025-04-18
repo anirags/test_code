@@ -1,8 +1,13 @@
 # Script: Factorial Sum Calculator
+def add(x, y):
+    return x + y
 
 def factorial(n):
+<<<<<<< Updated upstream
     'added docs'
     """
+=======
+>>>>>>> Stashed changes
     if n == 0:
         return 1
     else:
