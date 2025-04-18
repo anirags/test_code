@@ -3,6 +3,8 @@
 def factorial(n):
     """Calculate the factorial of a number n."""
     """
+
+    
     Function to calculate the factorial of a number.
     """
     if n == 0:
