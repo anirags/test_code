@@ -1,7 +1,6 @@
 # Script: Factorial Sum Calculator
 
 def factorial(n):
-    "Function to calculate the factorial of a number."
     """
     if n == 0:
         return 1
