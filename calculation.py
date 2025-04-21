@@ -7,6 +7,9 @@ def sub(x, y):
 def test():
     return 'test'
 
+def mult(x, y):
+    return x * y
+
 def factorial(n):
     'added docs'
 
