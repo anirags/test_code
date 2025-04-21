@@ -1,11 +1,3 @@
-# Script: Factorial Sum Calculator
-def add(x, y):
-    return x + y
-def test1():
-    return 'test1'
-def subtract(x, y):
-    return x - y
-
 def test():
     return 'test'
 
