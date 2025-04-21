@@ -4,6 +4,9 @@ def add(x, y):
 def sub(x, y):
     return x - y
 
+def test():
+    return 'test'
+
 def factorial(n):
     'added docs'
 
