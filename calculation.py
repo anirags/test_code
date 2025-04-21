@@ -1,8 +1,8 @@
 # Script: Factorial Sum Calculator
 def add(x, y):
     return x + y
-
-
+def factorial(n):
+    return n * (n - 1) if n > 1 else 1
 def test():
     return 'test'
 
